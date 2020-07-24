@@ -5,6 +5,13 @@ Java
 Python
 
 
+Scala
+Ruby
+
 Thanks :)
 
+
+Done my changes
+
 Final
+
