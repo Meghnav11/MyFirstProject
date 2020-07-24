@@ -5,4 +5,7 @@ Java
 Python
 
 
+Scala
+Ruby
+
 Thanks :)
